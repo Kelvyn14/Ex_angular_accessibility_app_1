@@ -1,4 +1,4 @@
-# A11yP1
+# Ex_angular_accessibility_app_1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
